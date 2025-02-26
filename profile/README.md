@@ -24,10 +24,12 @@
 <div align="center">
   <a href="https://x.com/RelayProtocol"><b>Follow on Twitter</b></a>
 </div>
-
 <div id="user-content-toc" align="center">
   <ul>
-    <summary><h2>🖼️ NFT</h2></summary>
+    <summary><h2><picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/reservoirprotocol/.github/refs/heads/main/profile/nft-icon.svg">
+        <img alt="relay logo" src="https://raw.githubusercontent.com/reservoirprotocol/.github/refs/heads/main/profile/nft-icon.svg" align="bottom" height="22"">
+      </picture> NFT</h2></summary>
   </ul>
 </div>
 <div align="center">
