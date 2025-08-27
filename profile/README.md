@@ -1,7 +1,7 @@
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://reservoir.tools/img/reservoir.svg">
-    <img alt="reservoir logo" src="https://reservoir.tools/img/reservoir_light.svg" width="auto" height="60">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/reservoirprotocol/.github/blob/main/profile/reservoir_dark.svg">
+    <img alt="reservoir logo" src="https://github.com/reservoirprotocol/.github/blob/main/profile/reservoir_light.svg" width="auto" height="60">
   </picture>
 </p>
 
@@ -10,10 +10,10 @@
 <p>
 <div id="user-content-toc" align="center">
   <ul>
-    <summary><h2><picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://reservoir.tools/img/products/logos/relay.svg">
-        <img alt="relay logo" src="https://reservoir.tools/img/products/logos/relay.svg" align="bottom" width="20" height="20"">
-      </picture>Relay</h2></summary>
+    <summary><picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github.com/relayprotocol/.github/blob/main/profile/lockup_white.png">
+        <img alt="reservoir logo" src="https://github.com/relayprotocol/.github/blob/main/profile/lockup_violet.png" width="auto" height="25">
+      </picture></summary>
   </ul>
 </div>
 <div align="center">
